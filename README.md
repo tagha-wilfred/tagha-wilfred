@@ -145,5 +145,5 @@ I'm always open to:
 ---
 
 <div align="center">
-  <sub>⭐ If any of my projects helped you, a star means a lot. It tells me the work matters.</sub>
+  <sub>⭐ If any of my projects helped you, a star means a lot. It tells me the work matters. Thank You</sub>
 </div>
