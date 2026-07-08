@@ -44,7 +44,7 @@
 
 ## 👨🏾‍💻 About me
 
-I'm a **Software Engineer** with a BSc from the University of Buea, specialising in **Data Engineering** and **Analytics**. I build reliable data pipelines that turn raw numbers into real decisions — and I run **Mr. Dayter**, a data engineering studio based in Cameroon.
+I'm a **Software Engineer** with a BSc from the University of Buea. I specialise in **Data Engineering** and **Analytics**. I build reliable data pipelines that turn raw numbers into real decisions — and I run **Mr. Dayter**, a data engineering studio based in Cameroon.
 
 Currently transitioning from mobile and software engineering into full-stack data engineering — deepening my work with **dbt, Apache Airflow, and AWS** while building production-grade portfolio projects.
 
