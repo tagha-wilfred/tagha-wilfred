@@ -91,7 +91,7 @@ Currently transitioning from mobile and software engineering into full-stack dat
 | 🌱 **[Crop Illness Detection](https://github.com/tagha-wilfred/crop-illness-detection)** | ML model for detecting plant diseases from images with a Flutter mobile app for in-field use by farmers | Python · TensorFlow · FastAPI · Flutter | ✅ Complete |
 | 💨 **[CLADIAQ — Air Quality System](https://github.com/tagha-wilfred/cladiaq)** | Full IoT information system collecting, storing and displaying air quality data with health recommendations. Built at Orange Cameroon. | Django · Flutter · AWS · IoT | ✅ Complete |
 | 📊 **[Reporting Automation — SYNDATECH](https://github.com/tagha-wilfred/syndatech-reporting)** | Python automation pipeline that cut manual reporting time by **80%**, with interactive Tableau dashboards | Python · pandas · Tableau | ✅ Complete |
-| 🗳️ **[Fingerprint Voting System](https://github.com/tagha-wilfred/fingerprint-voting-system)** | Biometric voting system for schools using fingerprint authentication. Final year project. | Python · Hardware integration | ✅ Complete |
+| 🗳️ **[Fingerprint Voting System](https://github.com/tagha-wilfred/FingerPrintVotingSystem)** | Biometric voting system for schools using fingerprint authentication. Final year project. | Python · Hardware integration | ✅ Complete |
 
 ---
 
