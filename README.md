@@ -103,7 +103,6 @@ Currently transitioning from mobile and software engineering into full-stack dat
      
 <img src="https://streak-stats.demolab.com?user=tagha-wilfred&theme=transparent&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideNums=E8E6E0&sideLabels=6B7280&dates=6B7280&border=1a2240" alt="GitHub contribution streak for Wilfred Tagha"/>
 </div>
-
 ---
 
 ## 🌍 Beyond the code
