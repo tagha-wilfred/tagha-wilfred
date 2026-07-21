@@ -87,7 +87,7 @@ Currently transitioning from mobile and software engineering into full-stack dat
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 🌬️ **[African Air Quality Pipeline](https://github.com/tagha-wilfred/africa-air-quality-pipeline)** | End-to-end data pipeline ingesting air quality data from 5 African cities, orchestrated daily by Airflow, transformed by dbt, visualised in Power BI | Python · Airflow · dbt · AWS S3 · PostgreSQL · Power BI | 🔨 Building |
+| 🌬️ **[0panik](https://0panik-web.vercel.app/)** | 0panik tracks the things you can't afford to lose and flags the scams you're too busy to catch — a small device and a smarter app, built to keep you one step ahead | Python · Django · dbt · PostgreSQL · React | 🔨 Building |
 | 🌱 **[Crop Illness Detection](https://github.com/tagha-wilfred/crop-illness-detection)** | ML model for detecting plant diseases from images with a Flutter mobile app for in-field use by farmers | Python · TensorFlow · FastAPI · Flutter | ✅ Complete |
 | 💨 **[CLADIAQ — Air Quality System](https://github.com/tagha-wilfred/cladiaq)** | Full IoT information system collecting, storing and displaying air quality data with health recommendations. Built at Orange Cameroon. | Django · Flutter · AWS · IoT | ✅ Complete |
 | 📊 **[Reporting Automation — SYNDATECH](https://github.com/tagha-wilfred/syndatech-reporting)** | Python automation pipeline that cut manual reporting time by **80%**, with interactive Tableau dashboards | Python · pandas · Tableau | ✅ Complete |
